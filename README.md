@@ -1,16 +1,29 @@
 # Ciao, I'm Claudiomario Gentile 🇮🇹
 
-🎓 Computer Engineering student @ Università degli Studi di Palermo  
-🤖 Currently approaching Artificial Intelligence with the goal of specializing in it during my Master's degree.
+Data & AI Intern @ Accenture | Computer Engineering Student @ UniPa.  
+Currently approaching Artificial Intelligence with the goal of specializing in it during my Master's degree.
 
 I'm currently more focused on understanding fundamentals than chasing tools or frameworks.
 
 ---
 
 ## 🔭 Current Focus
+- Currently doing a Data & AI internship @ Accenture, applying these foundations to systems and requirements analysis in enterprise projects.
 - Learning **Python** for AI, data analysis and prototyping  
 - Strengthening **algorithms and problem-solving skills**  
 - Building solid foundations for future work in **Artificial Intelligence**
+
+---
+
+## 📜 Certifications
+
+[![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![IBM](https://img.shields.io/badge/IBM-Getting%20Started%20with%20Generative%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](#)
+[![Apple](https://img.shields.io/badge/Apple-Foundation%20Program-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
+
+- **Cisco Introduction to Cybersecurity** - https://www.credly.com/earner/earned/badge/55387c27-e8c9-4f49-8482-b22142c6f968
+- **IBM Getting Started with Generative AI** - https://www.credly.com/earner/earned/badge/8d794329-4a5b-4b5c-8fa0-97a6c6a8022a
+- **Apple Foundation Program** - https://bestr.it/award/show/LYXM-odjSAGMq1IWuxpxwg#!#award-description-wrapper
 
 ---
 
@@ -34,12 +47,6 @@ I'm currently more focused on understanding fundamentals than chasing tools or f
 
 ---
 
-## 🧠 Interests
-- Artificial Intelligence and intelligent systems  
-- Music and creativity enhanced by technology  
-- Literature and psychology: understanding the “why” behind human behavior
-
----
-
-## 📫 Contact
-📧 claudomariogentile@gmail.com
+## 📫 Contacts
+📧 claudiomariogentile0@gmail.com  
+📞 +39 3515603030
