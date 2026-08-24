@@ -21,9 +21,9 @@ I'm currently more focused on understanding fundamentals than chasing tools or f
 [![IBM](https://img.shields.io/badge/IBM-Getting%20Started%20with%20Generative%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](#)
 [![Apple](https://img.shields.io/badge/Apple-Foundation%20Program-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
 
-- **Cisco Introduction to Cybersecurity** - https://www.credly.com/earner/earned/badge/55387c27-e8c9-4f49-8482-b22142c6f968
-- **IBM Getting Started with Generative AI** - https://www.credly.com/earner/earned/badge/8d794329-4a5b-4b5c-8fa0-97a6c6a8022a
-- **Apple Foundation Program** - https://bestr.it/award/show/LYXM-odjSAGMq1IWuxpxwg#!#award-description-wrapper
+- [Cisco Introduction to Cybersecurity Credential](https://www.credly.com/earner/earned/badge/55387c27-e8c9-4f49-8482-b22142c6f968)
+- [IBM Getting Started with Generative AI Credential](https://www.credly.com/earner/earned/badge/8d794329-4a5b-4b5c-8fa0-97a6c6a8022a)
+- [Apple Foundation Program Credential](https://bestr.it/award/show/LYXM-odjSAGMq1IWuxpxwg#!#award-description-wrapper)
 
 ---
 
