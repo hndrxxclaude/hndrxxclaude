@@ -28,11 +28,11 @@ I'm currently more focused on understanding fundamentals than chasing tools or f
 ---
 
 ## 🛠 Tech & Foundations
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ARM Assembly](https://img.shields.io/badge/ARM32-Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM32-Assembly-0091BD?style=flat&logo=arm&logoColor=white)
 - **Python** – learning and using it for algorithms and AI-oriented projects  
 - **C** – university background, algorithmic problem solving  
 - **Java** – university coursework this semester, object-oriented programming  
@@ -47,7 +47,10 @@ I'm currently more focused on understanding fundamentals than chasing tools or f
 * **Computer Architecture:** Currently publishing my ARM32 assembly subroutines.
 * **Algorithms:** Solving problems and optimizing code in C and Python.
 
+Check out my [Learning-Lab](https://github.com/hndrxxclaude/Learning-Lab) repo for what I'm currently studying and for future projects.
+
 ---
 
 ## 📫 Contacts
-📧 claudiomariogentile0@gmail.com  
+claudiomariogentile0@gmail.com  
+[LinkedIn](www.linkedin.com/in/claudiomario-gentile)
