@@ -1,4 +1,4 @@
-# Ciao, I'm Claudiomario Gentile 🇮🇹
+# Ciao, I'm Claudiomario Gentile 
 
 Data & AI Intern @ Accenture | Computer Engineering Student @ UniPa.  
 Currently approaching Artificial Intelligence with the goal of specializing in it during my Master's degree.
@@ -8,10 +8,10 @@ I'm currently more focused on understanding fundamentals than chasing tools or f
 ---
 
 ## 🔭 Current Focus
-- Currently doing a Data & AI internship @ Accenture, applying these foundations to systems and requirements analysis in enterprise projects.
 - Learning **Python** for AI, data analysis and prototyping  
 - Strengthening **algorithms and problem-solving skills**  
 - Building solid foundations for future work in **Artificial Intelligence**
+- Currently doing a Data & AI internship @ Accenture, applying these foundations to systems and requirements analysis in enterprise projects
 
 ---
 
