@@ -50,4 +50,4 @@ Check out my [Learning-Lab](https://github.com/hndrxxclaude/Learning-Lab) repo f
 
 ## 📫 Contacts
 claudiomariogentile0@gmail.com  
-[LinkedIn](www.linkedin.com/in/claudiomario-gentile)
+www.linkedin.com/in/claudiomario-gentile
