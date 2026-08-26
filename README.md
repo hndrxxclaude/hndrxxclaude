@@ -49,4 +49,3 @@ I'm currently more focused on understanding fundamentals than chasing tools or f
 
 ## 📫 Contacts
 📧 claudiomariogentile0@gmail.com  
-📞 +39 3515603030
