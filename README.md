@@ -44,9 +44,6 @@ I'm currently more focused on understanding fundamentals than chasing tools or f
 ---
 
 ### 📚 Education & Projects
-* **Computer Architecture:** Currently publishing my ARM32 assembly subroutines.
-* **Algorithms:** Solving problems and optimizing code in C and Python.
-
 Check out my [Learning-Lab](https://github.com/hndrxxclaude/Learning-Lab) repo for what I'm currently studying and for future projects.
 
 ---
