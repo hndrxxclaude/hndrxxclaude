@@ -28,13 +28,15 @@ I'm currently more focused on understanding fundamentals than chasing tools or f
 ---
 
 ## 🛠 Tech & Foundations
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM32-Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-
 - **Python** – learning and using it for algorithms and AI-oriented projects  
 - **C** – university background, algorithmic problem solving  
+- **Java** – university coursework this semester, object-oriented programming  
+- **SQL** – university coursework this semester, relational databases and queries  
 - **ARM32 Assembly** – academic experience from Computer Architecture  
   - Low-level programming, memory access, stack usage and condition flags  
   - Assembly routines written for exam preparation
